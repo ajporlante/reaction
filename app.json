@@ -29,5 +29,10 @@
       "description": "Your app's URL",
       "value": "https://app-name.herokuapp.com"
     }
+  },
+  {
+  "scripts": {
+    "postdeploy": "npm run devserver"
   }
+}
 }

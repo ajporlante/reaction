@@ -30,7 +30,6 @@
       "value": "https://app-name.herokuapp.com"
     }
   },
-  {
   "scripts": {
     "postdeploy": "npm run devserver"
   }
